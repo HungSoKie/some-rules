@@ -1,0 +1,4 @@
+# CATCHPLAY (Taiwan video streaming). Requires a Taiwan exit.
+# Self-maintained list; initial entries taken from v2fly domain-list-community: catchplay.
+DOMAIN-SUFFIX,catchplay.com
+DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net

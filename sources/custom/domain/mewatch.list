@@ -1,0 +1,3 @@
+# mewatch (Mediacorp, Singapore video streaming). Requires a Singapore exit.
+# Self-maintained list; initial entries taken from blackmatrix7/ios_rule_script: MeWatch.
+DOMAIN-SUFFIX,mewatch.sg

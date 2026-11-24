@@ -1,0 +1,5 @@
+# radiko (Japan internet radio, geo-restricted). Requires a Japan exit.
+# Self-maintained list; initial entries taken from v2fly domain-list-community: radiko.
+DOMAIN-SUFFIX,radiko-cf.com
+DOMAIN-SUFFIX,radiko.jp
+DOMAIN-SUFFIX,smartstream.ne.jp

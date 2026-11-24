@@ -25,7 +25,7 @@ on:
       - 'sources/custom/**'
       - 'templates/**'
   schedule:
-    - cron: '23 8 * * *'
+    - cron: '23 8 */3 * *'
   workflow_dispatch:
     inputs:
       ref:

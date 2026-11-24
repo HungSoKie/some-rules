@@ -1,0 +1,6 @@
+# U-NEXT (Japan video streaming). Requires a Japan exit.
+# Self-maintained list; initial entries taken from v2fly domain-list-community: unext.
+DOMAIN-SUFFIX,nxtv.jp
+DOMAIN-SUFFIX,unext-info.jp
+DOMAIN-SUFFIX,unext.jp
+DOMAIN-SUFFIX,unext.co.jp

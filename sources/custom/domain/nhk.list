@@ -1,0 +1,5 @@
+# NHK (Japan public broadcaster, NHK+ is geo-restricted). Requires a Japan exit.
+# Self-maintained list; initial entries taken from v2fly domain-list-community: nhk.
+DOMAIN-SUFFIX,nhk.jp
+DOMAIN-SUFFIX,nhkworld.jp
+DOMAIN-SUFFIX,nhk.or.jp

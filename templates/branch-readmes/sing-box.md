@@ -1,6 +1,6 @@
 # Rules / sing-box
 
-本分支存放 sing-box 专用规则，每日随 `main` 分支重新构建并整支覆盖。分支里只有 `README.md`、`domain/` 和 `ip/`。如需固定版本，可将订阅地址中的分支名替换为对应提交的 SHA。
+本分支存放 sing-box 专用规则，每三天随 `main` 分支重新构建并整支覆盖。分支里只有 `README.md`、`domain/` 和 `ip/`。如需固定版本，可将订阅地址中的分支名替换为对应提交的 SHA。
 
 ## 规则说明
 
@@ -14,8 +14,8 @@
 {
   "route": {
     "rule_set": [
-      { "tag": "cn", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/KuGouGo/Rules/sing-box/domain/cn.srs" },
-      { "tag": "cn-ip", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/KuGouGo/Rules/sing-box/ip/cn.srs" }
+      { "tag": "cn", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/HungSoKie/some-rules/sing-box/domain/cn.srs" },
+      { "tag": "cn-ip", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/HungSoKie/some-rules/sing-box/ip/cn.srs" }
     ]
   }
 }
@@ -25,5 +25,5 @@
 
 ## 许可与来源
 
-- 项目说明与许可范围见 [主 README](https://github.com/KuGouGo/Rules/blob/main/README.md)、[LICENSE](https://github.com/KuGouGo/Rules/blob/main/LICENSE) 与 [THIRD_PARTY_NOTICES](https://github.com/KuGouGo/Rules/blob/main/THIRD_PARTY_NOTICES.md)。
+- 项目说明与许可范围见 [主 README](https://github.com/HungSoKie/some-rules/blob/main/README.md)、[LICENSE](https://github.com/HungSoKie/some-rules/blob/main/LICENSE) 与 [THIRD_PARTY_NOTICES](https://github.com/HungSoKie/some-rules/blob/main/THIRD_PARTY_NOTICES.md)。
 - 域名规则包含或派生自 [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)（[MIT License](https://github.com/v2fly/domain-list-community/blob/master/LICENSE)）。
